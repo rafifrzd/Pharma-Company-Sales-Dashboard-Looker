@@ -14,6 +14,7 @@ The steps to create the Dashboard is explained as follows:
 
 <br>
 
-[Link to Dashboard](https://lookerstudio.google.com/u/0/reporting/4db84a1c-e70e-4b4c-8ae3-f22969f2aa08/page/6LQ9C)
+[Link to Dashboard](https://lookerstudio.google.com/u/0/reporting/4db84a1c-e70e-4b4c-8ae3-f22969f2aa08/page/6LQ9C) <br>
+[Certification](https://drive.google.com/file/d/1wGyhQmsaiHQcEe6NvCSfkVtlTPHaS1dQ/view?usp=sharing)
 
 
