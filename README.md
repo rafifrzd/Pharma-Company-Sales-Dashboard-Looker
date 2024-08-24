@@ -6,6 +6,7 @@ PT Kimia Farma Tbk is an Indonesian state-owned Pharmaceutical Company which has
 * Google Data Studio
 
 **Creation Stages**: <br>
+<br>
 The steps to create the Dashboard is explained as follows:
 1. Created ERD and designated primary key and foreign key from data warehouse tables.
 2. Designed data mart (base and aggregate table) for January - June 2022 sales report and information from data warehouse using SQL querying in PostgreSQL.
